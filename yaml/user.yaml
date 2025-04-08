@@ -1,0 +1,16 @@
+firstName: Gian
+middleName: Nurwana
+lastName: San
+hobbies:
+  - coding
+  - reading
+  - gaming
+address:
+  street: Jl. Kelapa
+  city: Tangerang
+  country: Indonesia
+wallet:
+  - type: cash
+    amount: 10000
+  - type: debit
+    amount: 20000
