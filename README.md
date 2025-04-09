@@ -29,3 +29,9 @@ melihat semua project yang sedang berjalan
 ```
 docker compose ls
 ```
+
+memantau docker event
+
+```
+docker events --filter ‘container=nama’
+```
