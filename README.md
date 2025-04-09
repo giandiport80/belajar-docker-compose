@@ -35,3 +35,8 @@ memantau docker event
 ```
 docker events --filter ‘container=nama’
 ```
+
+build dockerfile
+```
+docker compose build
+```
