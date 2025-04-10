@@ -40,3 +40,16 @@ build dockerfile
 ```
 docker compose build
 ```
+
+extend service (berguna untuk ganti mode konfigurasi: dev, prod, local)
+```
+docker compose -f docker-compose.yaml -f prod.yaml create
+```
+
+```
+docker compose -f docker-compose.yaml -f dev.yaml create
+```
+
+```
+docker compose -f docker-compose.yaml -f dev.yaml create
+```
